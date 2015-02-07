@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel+osxmenu r12896"
-   sodipodi:docname="s.svg"
-   inkscape:export-filename="/Users/silverwind/s2.png"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/silverwind/git/logo/logo.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
   <defs
@@ -72,7 +72,7 @@
        height="84.102951"
        x="6.9790177"
        y="186.76846"
-       style="fill:#505050;stroke-width:0.2602511;fill-opacity:0.1254902"
+       style="fill:#404040;stroke-width:0.2602511;fill-opacity:0.1882353"
        rx="6.2881885"
        inkscape:export-xdpi="192"
        inkscape:export-ydpi="192" />
