@@ -13,7 +13,10 @@
    id="svg4557"
    version="1.1"
    inkscape:version="0.91+devel+osxmenu r12896"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/Users/silverwind/git/logo/logo.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
   <metadata
      id="metadata4579">
     <rdf:RDF>
@@ -41,9 +44,9 @@
      inkscape:window-height="719"
      id="namedview4575"
      showgrid="false"
-     inkscape:zoom="13.65625"
-     inkscape:cx="487.96986"
-     inkscape:cy="247.21281"
+     inkscape:zoom="1.7888413"
+     inkscape:cx="256.03166"
+     inkscape:cy="257.6888"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -78,7 +81,7 @@
     </g>
     <g
        id="g4571"
-       style="fill:#a02c2c">
+       style="fill:#ff5555">
       <path
          d="m 129.97,261.738 q 0,9.122 -7.135,9.122 l -6.683,0 0,-5.87 3.432,0 q 2.167,0 2.98,-1.175 0.903,-1.174 0.903,-3.973 l 0,-21.946 q 0,-3.793 1.445,-6.14 1.535,-2.44 3.612,-2.8 l 0,-0.543 q -2.077,-0.45 -3.612,-2.528 -1.445,-2.078 -1.445,-6.05 l 0,-22.037 q 0,-2.89 -0.903,-3.974 -0.813,-1.174 -2.89,-1.174 l -3.522,0 0,-5.87 6.683,0 q 3.793,0 5.42,2.53 1.714,2.437 1.714,6.682 l 0,22.308 q 0,3.972 1.444,5.778 1.536,1.807 4.335,1.807 l 0,5.87 q -2.8,0 -4.336,1.716 -1.445,1.717 -1.445,6.323 l 0,21.945 z"
          id="path4573"
