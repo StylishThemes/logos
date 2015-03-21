@@ -1,0 +1,3 @@
+#!/bin/sh
+imagemin logo.png > logo.min.png
+svgo --multipass -i logo.svg -o logo.min.svg
