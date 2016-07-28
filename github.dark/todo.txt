@@ -1,0 +1,8 @@
+Todo list:
+
+1. Both githubdark-script.svg and githubdark.svg need tweaking for pixel view
+   currently they will look quite nasty as png's
+
+2. Once the above has been done then minification should follow (not before)
+
+3. Relink all readmes to minified versions
