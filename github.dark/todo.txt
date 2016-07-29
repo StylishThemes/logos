@@ -1,5 +1,0 @@
-Todo list:
-
-1. Once the above has been done then minification should follow (not before)
-
-2. Relink all readmes to minified versions
